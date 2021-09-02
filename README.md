@@ -6,7 +6,7 @@ This will covert the images into its cartoon image. Yes , we will CARTOONIFY the
 
 Let's go ahead and give your pictures some **cartoonic effect.**
 
-### Libraries used
+### Libraries used :
 
 **Numpy** : for storing image
 
