@@ -1,6 +1,4 @@
-Cartoonifier Using OpenCV
-
-# Cartoonifier
+# Cartoonifier  Using OpenCV
 
 This will covert the images into its cartoon image. Yes , we will CARTOONIFY the images using **OpenCV.**
 
